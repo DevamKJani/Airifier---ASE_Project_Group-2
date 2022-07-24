@@ -16,7 +16,7 @@
 
 ## How to go through the repository?
 
-Go to forks that's located beneath the above section on the right side (that will take you to each member's repository) -> access ASE_Project_Group-2 repository to check their respective commits
+Go to forks that's located beneath the above section on the right side (that will take you to each member's repository) -> access 'ASE_Project_Group-2' repository to check their respective commits
 
 ## Atlassian JIRA Link: https://devamjani.atlassian.net/jira/software/projects/AIR/boards/1
 
