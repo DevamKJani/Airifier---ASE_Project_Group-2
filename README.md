@@ -23,8 +23,8 @@ Go to forks (that will take you to each member's repository) -> access any repos
 ## What to expect to get from each member's repository?
 
 * Devam Kalpesh Jani, demo app test, automated testing for main app
-* Harsh P Keshruwala, back-end code
-* Steeve Nazareth, front-end and back-end code
+* Harsh P Keshruwala, login and authentication page coding
+* Steeve Nazareth, front-end and firebase code
 * Jay Patel, automated testing for the app
 * Siddhartha Pitchika, automated testing for the app     
 * Maharshi Mulajibhai Chaudhary, automated testing for the app
