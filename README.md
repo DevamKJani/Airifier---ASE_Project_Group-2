@@ -24,7 +24,7 @@ Go to forks (that will take you to each member's repository) -> access any repos
 
 * Devam Kalpesh Jani, demo app test, automated testing for main app
 * Harsh P Keshruwala, login and authentication page coding
-* Steeve Nazareth, front-end and firebase code
+* Steeve Nazareth, front-end and firestore code
 * Jay Patel, automated testing for the app
 * Siddhartha Pitchika, automated testing for the app     
 * Maharshi Mulajibhai Chaudhary, automated testing for the app
