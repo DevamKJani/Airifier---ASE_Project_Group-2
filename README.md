@@ -17,3 +17,5 @@
 ## How to go through the repository?
 
 Go to forks (that will take you to each member's repository) -> access any repository to check their respective commits
+
+## JIRA Link: https://devamjani.atlassian.net/jira/software/projects/AIR/boards/1
