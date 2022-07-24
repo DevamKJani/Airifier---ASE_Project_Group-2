@@ -6,13 +6,13 @@
 
 ## Project Group Members
 
-* Devam Kalpesh Jani, 110087329
-* Harsh P Keshruwala,	110087334
-* Steeve Nazareth,	110087871
-* Jay Patel,	110088120
-* Siddhartha Pitchika,	110089009     
+* Devam Kalpesh Jani, 110087329 (Scrum master, tester)
+* Harsh P Keshruwala,	110087334 (Front-end, firebase developer)
+* Steeve Nazareth,	110087871 (Front-end, firebase developer)
+* Jay Patel,	110088120 (tester)
+* Siddhartha Pitchika,	110089009 (tester)     
 * Maharshi Mulajibhai Chaudhary,	110087318
-* Nikhitha Beecharaju,	110086904
+* Nikhitha Beecharaju,	110086904 (tester)
 
 ## How to go through the repository?
 
